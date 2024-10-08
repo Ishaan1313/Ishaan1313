@@ -22,4 +22,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ishaan1313/ishaan1313/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ishaan1313/Ishaan1313/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
